@@ -28,10 +28,6 @@ This project focuses purely on front-end design using HTML and Sass/CSS.
 
 ---
 
-## 🧱 Architecture
-
-The project uses the **Sass 7-1 pattern** for scalable styles:
-
 ## ⭐ Features
 
 ### 🎨 UI / UX
